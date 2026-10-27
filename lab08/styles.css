@@ -31,3 +31,19 @@ nav a {
 footer {
     display: flow-root;
 }
+.row1 {
+    display: flex;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
+    gap: 30px;
+}
+
+.address {
+    flex: 1;
+}
+
+.links {
+    flex: 1;
+}
