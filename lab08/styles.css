@@ -20,3 +20,14 @@ nav {
 nav a {
     color: #FFFFFF;
 }
+.copyright {
+    float: left;
+}
+
+.motto {
+    float: right;
+}
+
+footer {
+    display: flow-root;
+}
