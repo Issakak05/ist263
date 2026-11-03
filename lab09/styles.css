@@ -107,3 +107,7 @@ footer {
 .contact-form {
     padding: 15px;
 }
+
+.responsive-image {
+    max-width: 100%;
+}
