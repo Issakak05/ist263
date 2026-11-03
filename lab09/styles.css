@@ -49,6 +49,7 @@ footer {
 }
 .row2 {
     display: flex;
+    flex-wrap: wrap;
     background-color: #f2f2f2;
     padding: 20px;
     margin: 20px;
